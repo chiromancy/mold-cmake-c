@@ -8,7 +8,7 @@ Criterion Repository - https://github.com/Snaipe/Criterion/
 `brew install snaipe/soft/criterion` on MacOS
 
 ## TODO
-* Eliminate superfluous extra level of directories for tests
+?
 
 ## DONE
 * Add basic CMake code for building a sample targe
@@ -16,3 +16,4 @@ Criterion Repository - https://github.com/Snaipe/Criterion/
 * Add Picotest to test in place of catch
 * Integrate Criterion into project as another option https://github.com/Snaipe/Criterion/
 * create a mold-c project
+* Eliminate superfluous extra level of directories for tests
